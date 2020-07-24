@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421491601685",
+    "firebase_url": "https://vehiculoseguro-28b98.firebaseio.com",
+    "project_id": "vehiculoseguro-28b98",
+    "storage_bucket": "vehiculoseguro-28b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421491601685:android:2f5ecfa814c6b13d98f91c",
+        "android_client_info": {
+          "package_name": "mx.hgo.vehiculoseguro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421491601685-os815t6g7rvc95stjpf3emi27mn7cgs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.hgo.vehiculoseguro",
+            "certificate_hash": "09a975db5393517222d8591817a478b6225897c2"
+          }
+        },
+        {
+          "client_id": "421491601685-m4l55iesv5j3d4ua5ba8noh7mdrm5gmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeraHjp-URaFWAkJOa2QhpeC7UiONM_t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421491601685-m4l55iesv5j3d4ua5ba8noh7mdrm5gmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
